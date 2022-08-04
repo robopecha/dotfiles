@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julikolb@gmail.com
+	name = Julia Kolb
